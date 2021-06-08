@@ -14,5 +14,6 @@ int main()
         sizeInStr[i] = inputNumbers[i];
         i++;
     } while (inputNumbers[i] != ';');
+
     return 0;
 }
